@@ -1,6 +1,6 @@
 # Eggstinction
 
-Eggstinction is a strategic, turn-based boss battler where you mutate your egg-shaped character with unique powers to survive waves of evolving enemies. Featuring branching maps, permanent upgrades, and quirky egg-themed combat mechanics, it's a roguelike full of fun and challenge.
+Eggstinction is a strategic, turn-based boss battler where you mutate your egg-shaped character with unique powers to survive waves of evolving enemies. Featuring branching maps, permanent upgrades, and quirky egg-themed combat mechanics, it is a roguelike full of strategy and challenge.
 
 
 
